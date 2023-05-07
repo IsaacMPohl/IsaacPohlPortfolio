@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+    <head>
+        <title>JavaJam Jobs Postions</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="javajam.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content ="Yoga Studio Job Finder (We Are Always Hiring- Apply Today!)">
+    </head>
+    <body>
+        <div id ="wrapper">
+            <header>
+                <h1><a href="index.html"  >JavaJam Coffe Bar</a></h1>
+            </header>
+            <nav> 
+                <ul>
+                    <li><a href="index.html">Home</a></li>      
+                    <li><a href="menu.html">Menu</a></li>      
+                    <li><a href="music.html">Music</a></li>      
+                    <li><a href="jobs.html">Jobs</a></li>      
+                    <li><a href="gear.html">Gear</a></li>       
+                </ul>
+            </nav>
+
+            <main>
+                <div id = "herojobs"></div>
+                <h2>Jobs at JavaJam</h2>
+                <p>Want to work at JavaJam? Fill out the form below to start your application. All information is required.</p>
+
+                <form method="post" action="https://webdevbasics.net/scripts/javajam8.php">
+                    <!-- label for="id" -->
+                    <label for="myName">Name:</label>
+                    <input id = "myName" placeholder="Name Please" type="text" required>
+                    <label for="myEmail">Email:</label>
+                    <input id="myEmail" placeholder="Email Please" type="email" required>
+                    <label id="myStart">Start Date:</label>
+                    <input id="myStart" placeholder="Date Please" type="date" required>
+                    <label id="myExperience">Experience:</label>
+                    <textarea id="myExperience" required rows=2 cols=20 type="text"></textarea>
+                    <button id="submit" value="Apply Now">Apply Now</button>
+                </form>
+           
+      
+
+           
+            </main>
+            <footer>
+                Copyright @ 2020 JavaJam Coffe Bar<br>
+                <a href="mailto:Isaac@pohl.com"> Isaac@pohl.com</a>
+            </footer>
+        </div>
+    </body>
+</html>

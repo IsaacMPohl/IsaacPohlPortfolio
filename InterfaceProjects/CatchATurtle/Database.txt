@@ -1,0 +1,6 @@
+jo,300
+jose,100
+baba,25
+john,18
+clear,13
+clear,8
