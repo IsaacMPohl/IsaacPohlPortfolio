@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cash Register</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    #register {
+      width: 400px;
+      margin: 0 auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      background-color: #f9f9f9;
+    }
+    .item {
+      display: flex;
+      align-items: center;
+      margin: 10px 0;
+    }
+    .item img {
+      width: 80px;
+      height: 80px;
+      margin-right: 20px;
+    }
+    .item button {
+      padding: 20px 40px;
+      font-size: 20px;
+      background-color: #4caf50;
+      color: white;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+    .item .quantity {
+      font-size: 20px;
+      margin-right: 10px;
+    }
+    .item .price {
+      font-size: 20px;
+      margin-right: 10px;
+    }
+    #total {
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    #change {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div id="register">
+    <div class="item">
+      <img src="item1.jpg" alt="Item 1">
+      <span class="quantity">0</span>
+      <span class="price">$2.99</span>
+      <button onclick="addItem(2.99, 0)">Add</button>
+      <button onclick="removeItem(2.99, 0)">Remove</button>
+    </div>
+    <div class="item">
+      <img src="item2.jpg" alt="Item 2">
+      <span class="quantity">0</span>
+      <span class="price">$5.49</span>
+      <button onclick="addItem(5.49, 1)">Add</button>
+      <button onclick="removeItem(5.49, 1)">Remove</button>
+    </div>
+    <div class="item">
+      <img src="item3.jpg" alt="Item 3">
+      <span class="quantity">0</span>
+      <span class="price">$3.99</span>
+      <button onclick="addItem(3.99, 2)">Add</button>
+      <button onclick="removeItem(3.99, 2)">Remove</button>
+    </div>
+    <div class="item">
+      <img src="item4.jpg" alt="Item 4">
+      <span class="quantity">0</span>
+      <span class="price">$3.99</span>
+      <button onclick="addItem(3.99, 2)">Add</button>
+      <button onclick="removeItem(3.99, 2)">Remove</button>
+    </div>
+    <div class="item">
+      <img src="item5.jpg" alt="Item 5">
+      <span class="quantity">0</span>
+      <span class="price">$3.99</span>
+      <button onclick="addItem(3.99, 2)">Add</button>
+      <button onclick="removeItem(3.99, 2)">Remove</button>
+    </div>
+    <!-- Add more items here with images, prices, and buttons -->
+    <div>
+      <p>Total: $<span id="totalAmount">0.00</span></p>
+    </div>
+    <div>
+      <label for="amountPaid">Amount Paid: $</label>
+      <input type="number" id="amountPaid" step="0.01">
+      <button onclick="calculateChange()">Calculate Change</button>
+    </div>
+    <div id="change">
+      <p>Change: $<span id="changeAmount">0.00</span></p>
+    </div>
+    <div>
+      <button onclick="reset()">Reset</button>
+    </div>
+  </div>
+  <script>
+    let total = 0.00;
+    let quantities = [0, 0, 0]; // Array to store quantities for each item
+    const prices = [2.99, 5.49, 3.99]; // Array of item prices
+
+    function addItem(price, index) {
+      total += price;
+      quantities[index]++;
+      updateTotal();
+      updateQuantities();
+    }
+
+    function removeItem(price, index) {
+      if (total >= price && quantities[index] > 0) {
+        total -= price;
+        quantities[index]--;
+        updateTotal();
+        updateQuantities();
+      }
+    }
+
+    function updateTotal() {
+      document.getElementById("totalAmount").textContent = total.toFixed(2);
+    }
+
+    function updateQuantities() {
+      const quantityElements = document.querySelectorAll(".quantity");
+      for (let i = 0; i < quantities.length; i++) {
+        quantityElements[i].textContent = quantities[i];
+      }
+    }
+
+    function calculateChange() {
+      const amountPaid = parseFloat(document.getElementById("amountPaid").value);
+      const change = amountPaid - total;
+
+      document.getElementById("changeAmount").textContent = change.toFixed(2);
+    }
+
+    function reset() {
+      total = 0.00;
+      quantities = [0, 0, 0]; // Reset quantities
+      document.getElementById("totalAmount").textContent = total.toFixed(2);
+      document.getElementById("amountPaid").value = "";
+      document.getElementById("changeAmount").textContent = "0.00";
+      updateQuantities();
+    }
+  </script>
+</body>
+</html>
