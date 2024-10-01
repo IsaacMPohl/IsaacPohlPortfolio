@@ -49,7 +49,7 @@ I was in charge doing 2023 summer to collect leaf samples for various farmers. A
 
 
 ## Parrish Consulting Services (Juanary 2024-present)
-I started this internship in Juanuray 2024, during this interneship I had to learn Micrsoft Blazor and learn the C# language. During this August 2024
+I started this internship in Juanuray 2024, during this interneship I had to learn Micrsoft Blazor and learn the C# language. During this internship I was a full stack programmer, designing the database, connecting the database, and working on the front end of the web application. 
 
 ## Pohl's Greenhouse
 I started in 2020 a small hobby greenhouse where I grew plants for my family. Over the years, I expanded my company. I learned some of the most important life lessons while working on this business. In 2022, I grew and sold $700 worth of plants, this year I sold $900 worth of plants. Below is my SAE proficiency award application which I received 1st placed at the State FFA Convention.
