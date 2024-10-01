@@ -3,7 +3,7 @@
 ## Linkedin - www.linkedin.com/in/isaac-pohl/
 Hello, my name is Isaac Pohl, and I am a freshman at Murray State University, where I am pursuing a computer science and agriculture degree. I enjoy computer science because it is challenging and offers many opportunities to learn, which is essential in developing the mindset of a successful person. Currently, I am employed at Pohl's Ag Services, a company that helps farmers analyze crop yields. Two summers ago, I helped design and implement a leaf sample record-keeping database, and this past summer, I was in charge of managing and collecting data for this database. In January 2024, I got an internship for Parrish Consulting, Inc., where I designed web applications and databases to keep track of records. For this internship, I learned C# programming and programming techniques. Working for two jobs, Pohl Ag and Parrish, was challenging during the summer. My unique interests and experience in both industries will allow me to help advance the agriculture and computer science industries. I am always looking for ways to volunteer in the community. During this past summer, I organized a team teghter. I got Corteva Agricecnce and National 4-H to sponsor to teach over 600 kids about world hunger and how to grow their food through a presentation and microgreen grow lab. I am currently planning a mission trip and adult program for the next stage of my project. 
 
-<img src="myPhoto.jpeg" alt="isolated" width="400"/>
+<img src="IMG_9705.jpg" alt="isolated" width="400"/>
 
 
 
