@@ -1,14 +1,14 @@
 # Isaac Pohl
 ## Email - isaacpohl0@gmail.com
 ## Linkedin - www.linkedin.com/in/isaac-pohl/
-Hello, my name is Isaac Pohl and I am a Freshmen in college. During high school I attened Gibson Southern High School and Southern Indiana Career & Technical Center where I took the computer science class. I enjoy computer science because it is challenging and offers many opportunities to learn. I was also in advanced math which I believe is very important in developing the mindset of a successful person. Outside of class I am always looking for ways to learn and be involved in the community. During high school I was a member of Gibson Southern FFA, Vanderburgh County Junior Leaders, and SICTC BPA. For each of these clubs, I have earned many awards at the local and state levels. I also participate in cross country and track & field at Gibson Southern. Currently, I am employed at Pohl's Ag Services which is a company that helps farmers analyze crops yields. In 2023, during the summer, I helped collect plant samples and created a database for a farmer. In 2023, I was one of twelve students who was picked in the United States to be part of the National Precision Agriculture Team. This required me to teach a drone program to youth in Southern Indiana. I have educated approximently 200 youth on the importance of drone usage in agriculture. Another outstanding accomplishment which I have has been owning a greenhouse. I was awarded an FFA Professional Award and a $1,000 grant from Bob Evan's to expand my greenhouse business.
-
+Hello, my name is Isaac Pohl, and I am a freshman at Murray State University, where I am pursuing a computer science and agriculture degree. I enjoy computer science because it is challenging and offers many opportunities to learn, which is essential in developing the mindset of a successful person. Currently, I am employed at Pohl's Ag Services, a company that helps farmers analyze crop yields. Two summers ago, I helped design and implement a leaf sample record-keeping database, and this past summer, I was in charge of managing and collecting data for this database. In January 2024, I got an internship for Parrish Consulting, Inc., where I designed web applications and databases to keep track of records. For this internship, I learned C# programming and programming techniques. Working for two jobs, Pohl Ag and Parrish, was challenging during the summer. My unique interests and experience in both industries will allow me to help advance the agriculture and computer science industries. I am always looking for ways to volunteer in the community. During this past summer, I organized a team teghter. I got Corteva Agricecnce and National 4-H to sponsor to teach over 600 kids about world hunger and how to grow their food through a presentation and microgreen grow lab. I am currently planning a mission trip and adult program for the next stage of my project. 
 
 <img src="myPhoto.jpeg" alt="isolated" width="400"/>
 
 
+
 # Goals
-I plan to graduate Murray State University with a bachelor's degree in computer science and agricluture at Murray State University. After college my goal is to obtain a computer science and agrilcuture job working either remotely or locally. After college, I would like to continue to sell plants from my greenhouse located in Haubstadt. Someday, I would like to marry and have children. My goal would be to have enough money saved to go on more vacations later in my life and to help pay for my kids' college educations.
+I plan to graduate Murray State University with a bachelor's degree in computer science and agricluture at Murray State University. After college my goal is to obtain a computer science and agrilcuture job working either remotely or locally. My main goal is to make the world a better place from small everyday interacters, jobs, or community service. After college, I would like to get a job that allows me to continue my passion for agricluture and computer science while still allowing me to porsue my passion for comunity service. 
 
 # My Hobbies 
 * Ice Cream Hobbyist
@@ -16,17 +16,37 @@ I plan to graduate Murray State University with a bachelor's degree in computer 
 * Water Sports
 * Exercising
 * Raising Rabbits For 4-H
-* My favorite class is Math
 * Growing Plants
 
 # High School Sports 
-Cross Country
-Track and Field
+* Cross Country
+* Track and Field
 
+# College Clubs 
+* Murray State Collegiate 4-H Club	
+* Murray State Agronomy Club
+* ATO Fraternity Pledge
+
+# Programming Skills
+*   WPF Wizard Application
+*   ASP.NET CORE WEB API with Controller and Simple
+*   Mockup Data using Mockaroo
+*   Serlog Logging
+*   Simple Network Managment Protocol (SNMP) V2 and V3 - monotoring devices
+*   Python Development
+*   Microsoft Blazer Devlopment (c#)
+*   HTML5/CSS/JS
+*   MariaDB and Microsoft SQL Server
+*   Node.js
+*   Android App Devlopment (Java)
+*   Micrsoft Services Programs/ Automation
+*   C# Console App
 
 # Jobs
 ## Pohl's Ag Services (2020-present)
 I was in charge doing 2023 summer to collect leaf samples for various farmers. After collecting 12 weeks of data for each corn and soybean field, I was in charge of creating a database for father anylsasis of how nutrients results to yields specially with certain nutrient and chemical trails. For this database I decided to use Micrsoft Access which was a introduction level of software that allowed me to clean and devleope basic sql commands. This worked well esspecially with graphs. This database was used the next season of 2024 whenever I went to collect leaf samples again. Click here to see graphs and simple data. For this I also had to clearn the proper stages of corn and soybeans to record in database correctly. Click on the cards below to learn more.
+
+
 
 ## Parrish Consulting Services (Juanary 2024-present)
 I started this internship in Juanuray 2024, during this interneship I had to learn Micrsoft Blazor and learn the C# language. During this August 2024
@@ -42,5 +62,17 @@ These are the years in which I worked for a landscaping company. This company wa
 
 ## Pohl's Pumpkin
 This is also my other business which I started in 2015. At first I grew pumpkins on a 1/4 acre plot in my parents' garden. In 2020, I decided to partner up with my cousin, this allowed us to grow pumpkins on a 1 acre plot at his house. We quickly opened up a website and facebook page for advertisement. In 2023 we decided to stop growing pumpkins since my cousin Ezra was going to college.
+
+# My Awards
+1. Gibson Southern High School Future Farmers of America Organization
+- FFA Junior Scholar Award: Given by Purdue University (most recognized junior for my accomplishments)
+- Biggest Growth FFA Award: (FFA member who improved the most over the 2022 and 2023 school year)
+- FFA Outstanding Accomplishment Award 2023: (FFA member who successfully participated in most activities)
+- National FFA Proficiency Award Top 4 In Nation: (prestigious award for competing in the nursery operation business) The process consisted of attending workshops, conventions, interviewing, and writing the application.
+- Greenhand Degree and Chapter Degree: This degree was earned by completing so many activities in FFA
+- State FFA Degree
+- State Star Farmer Finalist
+
+
 
 
