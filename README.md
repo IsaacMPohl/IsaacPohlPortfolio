@@ -38,16 +38,12 @@ I also value **community service and leadership**. I organized a team project wi
 
 ---
 
-##  Sports  
-- Cross Country  
-- Track and Field  
-
----
-
 ##  College Involvement  
 - Murray State Collegiate 4-H Club  
-- Murray State Agronomy Club  
-- Alpha Tau Omega Fraternity – *Social Service Coordinator*  
+- Murray State Agronomy and Drone Club  
+- Alpha Tau Omega Fraternity – *Social Service Coordinator*
+- Omicron Delta Kappa Treasurer (2025)
+- Murray State Running and Pickle Ball Club (2025)
 
 ---
 
@@ -60,6 +56,10 @@ I also value **community service and leadership**. I organized a team project wi
 ---
 
 ##  Work Experience  
+
+###  Vanderburgh County Exension Office (2025 Summer)  
+- Led education and outreach programs to educate youth about Health, Agricluture, and STEM.
+- Helped plan and led certain 4-H and fair related activities
 
 ###  Pohl’s Ag Services (2020–present)  
 - Collected & analyzed corn/soybean leaf samples.  
@@ -101,6 +101,17 @@ I also value **community service and leadership**. I organized a team project wi
 - State Star Farmer Finalist  
 
 ### 4-H  
-- Multiple awards and leadership recognition  
+- Multiple awards and leadership recognition
 
----
+### Vanderburgh County World Hunger Advocate Group
+- I led a outreach program for the past 2 years This education program aimed to develop a way to address world hunger solutions at the household level and engage the American public. The premise was that we cannot always rely on corporations and the government to provide food for those in need. To address world hunger and increase awareness, Americans must learn how to grow their food and understand its origins. With this idea in mind, I researched and designed a plan for youths to grow superfoods at home, such as microgreens and sprouts. This approach offers numerous benefits, including high nutrient content and ease of cultivation.
+
+After developing the program, I sought funding by applying for the national 4-H Lead to Change Grant and a grant from Corteva Agriscience. Both grants would enable me to lead a group of individuals in the summer of 2024, aiming to reach over 1,500 people with this program and promote awareness about world hunger. I led a team of 5 individuals in the summer of 2024. We traveled across town in Evansville, Indiana, to various schools, summer camps, subsidized assisted living facilities, and fairs. With the remaining grant money after the summer, I began planning a mission trip to engage more youth in this cause. 
+
+I connected with an organization called St. Vincent's Mission in David, Kentucky, a small town located in a food desert, which was seeking volunteers and support. In the summer of 2025, I led a team of 11 4-H members on a mission trip, during which we conducted microgreen education classes, installed a garden bed, assisted in maintaining local gardens, and helped at the local food pantry. According to Data USA, approximately 26.6% of the population in Floyd County, where David ais located, lives below the poverty level. 
+
+The experience of assisting this community during the trip was invaluable, and the 4-H youth learned a great deal. The 4-H group was surprised to discover the extent of hunger in our country. The mission relies on the support of volunteers, government aid, business contributions, and donations to continue its work.
+
+### World 
+
+
