@@ -33,7 +33,6 @@ I also value **community service and leadership**. I organized a team project wi
 -  Restoring Old Vehicles  
 -  Water Sports  
 -  Exercising  
--  Raising Rabbits (4-H)  
 -  Growing Plants  
 
 ---
@@ -92,26 +91,62 @@ I also value **community service and leadership**. I organized a team project wi
 ##  Awards & Achievements  
 
 ### FFA  
-- FFA Junior Scholar Award (Purdue University)  
-- Biggest Growth Award (2022–2023)  
-- Outstanding Accomplishment Award (2023)  
-- National FFA Proficiency Award – *Top 4 in Nation (Nursery Operations)*  
-- Greenhand & Chapter Degrees  
-- State and American FFA Degrees  
-- State Star Farmer Finalist  
+- **FFA Junior Scholar Award** (Purdue University)  
+- **Biggest Growth Award** (2022–2023)  
+- **Outstanding Accomplishment Award** (2023)  
+- **National FFA Proficiency Award** – *Top 4 in Nation (Nursery Operations)*  
+- **Greenhand & Chapter Degrees**  
+- **State and American FFA Degrees**  
+- **State Star Farmer Finalist**  
+
+---
 
 ### 4-H  
-- Multiple awards and leadership recognition
+- **2024 Senior Achievement Award**  
+- **2024** – Selected to Attend the *4-H Ignite Conference* in Washington, D.C.  
+- **2024** – *Citizenship & Civic Education and Leadership County Winner*  
+- **2023 4-H Achievement County Award Winner** – Recognized for 9 years of leadership and involvement in Vanderburgh County 4-H.  
+- **2023** – *4-H Aerial Ag Innovators: #1 Teacher in Indiana*  
+- **2022 & 2023** – *FFA Junior Scholar Award* (Purdue University recognition)  
+- **2016 4-H Junior Achievement County Award Winner**  
 
-### Vanderburgh County World Hunger Advocate Group
-- I led a outreach program for the past 2 years This education program aimed to develop a way to address world hunger solutions at the household level and engage the American public. The premise was that we cannot always rely on corporations and the government to provide food for those in need. To address world hunger and increase awareness, Americans must learn how to grow their food and understand its origins. With this idea in mind, I researched and designed a plan for youths to grow superfoods at home, such as microgreens and sprouts. This approach offers numerous benefits, including high nutrient content and ease of cultivation.
+---
 
-After developing the program, I sought funding by applying for the national 4-H Lead to Change Grant and a grant from Corteva Agriscience. Both grants would enable me to lead a group of individuals in the summer of 2024, aiming to reach over 1,500 people with this program and promote awareness about world hunger. I led a team of 5 individuals in the summer of 2024. We traveled across town in Evansville, Indiana, to various schools, summer camps, subsidized assisted living facilities, and fairs. With the remaining grant money after the summer, I began planning a mission trip to engage more youth in this cause. 
+### Vanderburgh County World Hunger Advocate Group  
+For the past **two years**, I have led an outreach program addressing **world hunger solutions at the household level**.  
 
-I connected with an organization called St. Vincent's Mission in David, Kentucky, a small town located in a food desert, which was seeking volunteers and support. In the summer of 2025, I led a team of 11 4-H members on a mission trip, during which we conducted microgreen education classes, installed a garden bed, assisted in maintaining local gardens, and helped at the local food pantry. According to Data USA, approximately 26.6% of the population in Floyd County, where David ais located, lives below the poverty level. 
+- Designed a youth education program on growing superfoods (microgreens, sprouts).  
+- Secured funding through the **National 4-H Lead to Change Grant** and a grant from **Corteva Agriscience**.  
+- In **Summer 2024**, led a **team of 5** to reach **1,500+ people** across schools, camps, assisted living facilities, and fairs.  
+- In **Summer 2025**, organized a **mission trip** with **11 4-H members** to **David, KY** (a food desert in Floyd County, where 26.6% of residents live below poverty).  
+- Activities included microgreen education, installing a garden bed, maintaining local gardens, and assisting at a food pantry.  
 
-The experience of assisting this community during the trip was invaluable, and the 4-H youth learned a great deal. The 4-H group was surprised to discover the extent of hunger in our country. The mission relies on the support of volunteers, government aid, business contributions, and donations to continue its work.
+This experience was invaluable in raising awareness about food insecurity and empowering youth to take action.  
 
-### World 
+---
 
+### 4-H Aerial Ag Innovators  
+- Selected as **1 of 4 in Indiana** to attend a 3-day program at **Ohio State University** on **precision agriculture and drones**.  
+- Tasked with teaching **10,000+ Indiana students** about drones and precision agriculture.  
+- Developed hands-on lessons: flying Tello drones, robotics activities, and interactive presentations.  
+- Recognized as the **Top Instructor in Indiana** and awarded a drone for teaching the most students.  
 
+---
+
+### Alpha Tau Omega – Social Service Coordinator  
+- Member of the **Alpha Tau Omega Zeta Lambda Chapter** at Murray State University.  
+- As **Social Service Coordinator**, I organize, promote, and track service opportunities for fraternity members.  
+- Since taking office, I have increased service opportunities to **~2 per week** (compared to 1 per week previously).  
+- Projects include:  
+  - Volunteering at food banks  
+  - Cleaning Main Street in Murray  
+  - Building beds for *Sleep in Heavenly Peace*  
+  - Maintaining Kentucky Lake trails  
+  - Volunteering at the animal shelter  
+
+---
+
+### Omicron Delta Kappa – Treasurer  
+- Member of the **Omicron Delta Kappa Honors Society** (top **35% of class** required for membership).  
+- Focus areas: **Leadership, Community Service, Academics**.  
+- Serve as **Treasurer** and **Social Service Coordinator** for the Murray State chapter.  
