@@ -116,7 +116,7 @@ I also value **community service and leadership**. I organized a team project wi
 For the past **two years**, I have led an outreach program addressing **world hunger solutions at the household level**.  
 
 - Designed a youth education program on growing superfoods (microgreens, sprouts).  
-- Secured funding through the **National 4-H Lead to Change Grant** and a grant from **Corteva Agriscience**.  
+- Secured $8,000 of funding from the **National 4-H Lead to Change Grant** and a grant from **Corteva Agriscience**.  
 - In **Summer 2024**, led a **team of 5** to reach **1,500+ people** across schools, camps, assisted living facilities, and fairs.  
 - In **Summer 2025**, organized a **mission trip** with **11 4-H members** to **David, KY** (a food desert in Floyd County, where 26.6% of residents live below poverty).  
 - Activities included microgreen education, installing a garden bed, maintaining local gardens, and assisting at a food pantry.  
